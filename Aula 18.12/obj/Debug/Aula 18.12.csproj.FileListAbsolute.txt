@@ -1,0 +1,10 @@
+C:\Users\Danilo Santana\Desktop\Aula 18.12\bin\Debug\Aula 18.12.exe.config
+C:\Users\Danilo Santana\Desktop\Aula 18.12\bin\Debug\Aula 18.12.exe
+C:\Users\Danilo Santana\Desktop\Aula 18.12\bin\Debug\Aula 18.12.pdb
+C:\Users\Danilo Santana\Desktop\Aula 18.12\obj\Debug\Aula 18.12.csprojAssemblyReference.cache
+C:\Users\Danilo Santana\Desktop\Aula 18.12\obj\Debug\Aula_18._12.frmCalculadoraDeRetangulo.resources
+C:\Users\Danilo Santana\Desktop\Aula 18.12\obj\Debug\Aula_18._12.Properties.Resources.resources
+C:\Users\Danilo Santana\Desktop\Aula 18.12\obj\Debug\Aula 18.12.csproj.GenerateResource.cache
+C:\Users\Danilo Santana\Desktop\Aula 18.12\obj\Debug\Aula 18.12.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Santana\Desktop\Aula 18.12\obj\Debug\Aula 18.12.exe
+C:\Users\Danilo Santana\Desktop\Aula 18.12\obj\Debug\Aula 18.12.pdb
